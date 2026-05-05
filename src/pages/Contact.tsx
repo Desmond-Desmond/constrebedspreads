@@ -47,7 +47,7 @@ export default function Contact() {
               <div className="p-3 border border-border"><Phone className="w-4 h-4 text-accent" /></div>
               <div>
                 <p className="text-[10px] uppercase tracking-[0.25em] text-muted-foreground">Call</p>
-                <p className="text-primary font-serif text-xl">+234 803 851 5509</p>
+                <p className="text-primary font-serif text-xl">+234 803 831 5509</p>
               </div>
             </li>
             <li className="flex gap-4 items-start">

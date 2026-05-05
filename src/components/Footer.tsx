@@ -25,7 +25,7 @@ export default function Footer() {
         <div>
           <h4 className="text-xs uppercase tracking-[0.25em] text-accent mb-5">Contact</h4>
           <ul className="space-y-3 text-sm text-primary-foreground/80">
-            <li className="flex items-center gap-2"><Phone className="w-4 h-4" /> +234 803 851 5509</li>
+            <li className="flex items-center gap-2"><Phone className="w-4 h-4" /> +234 803 831 5509</li>
             <li className="flex items-center gap-2"><Mail className="w-4 h-4" /> hello@constre.com</li>
             <li className="flex items-center gap-2"><MapPin className="w-4 h-4" /> Lagos, Nigeria</li>
             <li><a href={whatsappLink()} target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">Chat on WhatsApp →</a></li>

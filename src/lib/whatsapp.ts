@@ -1,4 +1,4 @@
-export const WHATSAPP_NUMBER = "2348038515509";
+export const WHATSAPP_NUMBER = "2348038315509";
 export const DEFAULT_MESSAGE = "Hello Constre Bedspreads, I would like to order a bedspread.";
 
 export function whatsappLink(message: string = DEFAULT_MESSAGE) {
